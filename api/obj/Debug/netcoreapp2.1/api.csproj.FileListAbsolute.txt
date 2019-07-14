@@ -1,0 +1,15 @@
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/bin/Debug/netcoreapp2.1/api.deps.json
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/bin/Debug/netcoreapp2.1/api.runtimeconfig.json
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/bin/Debug/netcoreapp2.1/api.runtimeconfig.dev.json
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/bin/Debug/netcoreapp2.1/api.dll
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/bin/Debug/netcoreapp2.1/api.pdb
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.csprojAssemblyReference.cache
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.csproj.CoreCompileInputs.cache
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.RazorAssemblyInfo.cache
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.RazorAssemblyInfo.cs
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.AssemblyInfoInputs.cache
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.AssemblyInfo.cs
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.RazorTargetAssemblyInfo.cache
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.dll
+/Users/mohammad.alsaleh/repos/asp.net-core-docker-advanced/api/obj/Debug/netcoreapp2.1/api.pdb

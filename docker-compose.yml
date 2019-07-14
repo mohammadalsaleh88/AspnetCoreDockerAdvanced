@@ -1,0 +1,15 @@
+version : '2.0'
+
+services:
+  aspnetcore_api:
+    build:
+      context: .
+    image: mohammadalsaleh88/aspnetcore_api:multi_stage
+    ports:
+      - '80:80'
+  
+  mail:
+    image: mailhog/mailhog
+    ports:
+      - '8025:8025'
+      - '1025:1025'

@@ -1,0 +1,18 @@
+//Tag the image
+docker tag mohammadalsaleh88/aspnetcore_api:multi_stage my-registry:5000/aspnetcore_api:multi_stage
+
+//Push tagged image to the registry server (my-registry:5000)
+docker push my-registry:5000/aspnetcore_api:multi_stage
+
+//Create test project
+dotnet new xunit -o tests
+cd tests
+dotnet add reference ../api/api.csproj
+dotnet test
+
+
+
+
+
+
+

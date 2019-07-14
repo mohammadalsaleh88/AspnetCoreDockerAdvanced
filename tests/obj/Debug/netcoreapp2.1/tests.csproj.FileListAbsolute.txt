@@ -1,0 +1,17 @@
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/Debug/netcoreapp2.1/tests.csprojAssemblyReference.cache
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/Debug/netcoreapp2.1/tests.csproj.CoreCompileInputs.cache
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfoInputs.cache
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfo.cs
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/tests.deps.json
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.json
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.dev.json
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/tests.dll
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/tests.pdb
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/api.dll
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/bin/Debug/netcoreapp2.1/api.pdb
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/Debug/netcoreapp2.1/tests.csproj.CopyComplete
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/Debug/netcoreapp2.1/tests.dll
+/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/Debug/netcoreapp2.1/tests.pdb
