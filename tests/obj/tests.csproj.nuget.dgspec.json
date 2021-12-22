@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/tests.csproj": {}
+    "/Users/mohammad/repo/AspnetCoreDockerAdvanced/tests/tests.csproj": {}
   },
   "projects": {
-    "/Volumes/Projects/Programming/asp.net-core-docker-advanced/api/api.csproj": {
+    "/Users/mohammad/repo/AspnetCoreDockerAdvanced/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Projects/Programming/asp.net-core-docker-advanced/api/api.csproj",
+        "projectUniqueName": "/Users/mohammad/repo/AspnetCoreDockerAdvanced/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Volumes/Projects/Programming/asp.net-core-docker-advanced/api/api.csproj",
-        "packagesPath": "/Users/mohammad.alsaleh/.nuget/packages/",
-        "outputPath": "/Volumes/Projects/Programming/asp.net-core-docker-advanced/api/obj/",
+        "projectPath": "/Users/mohammad/repo/AspnetCoreDockerAdvanced/api/api.csproj",
+        "packagesPath": "/Users/mohammad/.nuget/packages/",
+        "outputPath": "/Users/mohammad/repo/AspnetCoreDockerAdvanced/api/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/mohammad.alsaleh/.nuget/NuGet/NuGet.Config"
+          "/Users/mohammad/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,64 +35,74 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Faker.Net": {
               "target": "Package",
-              "version": "[1.0.3, )"
+              "version": "[1.5.150, )"
             },
             "Mailkit": {
               "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.All": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
+              "version": "[3.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/tests.csproj": {
+    "/Users/mohammad/repo/AspnetCoreDockerAdvanced/tests/tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/tests.csproj",
+        "projectUniqueName": "/Users/mohammad/repo/AspnetCoreDockerAdvanced/tests/tests.csproj",
         "projectName": "tests",
-        "projectPath": "/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/tests.csproj",
-        "packagesPath": "/Users/mohammad.alsaleh/.nuget/packages/",
-        "outputPath": "/Volumes/Projects/Programming/asp.net-core-docker-advanced/tests/obj/",
+        "projectPath": "/Users/mohammad/repo/AspnetCoreDockerAdvanced/tests/tests.csproj",
+        "packagesPath": "/Users/mohammad/.nuget/packages/",
+        "outputPath": "/Users/mohammad/repo/AspnetCoreDockerAdvanced/tests/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/mohammad.alsaleh/.nuget/NuGet/NuGet.Config"
+          "/Users/mohammad/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Volumes/Projects/Programming/asp.net-core-docker-advanced/api/api.csproj": {
-                "projectPath": "/Volumes/Projects/Programming/asp.net-core-docker-advanced/api/api.csproj"
+              "/Users/mohammad/repo/AspnetCoreDockerAdvanced/api/api.csproj": {
+                "projectPath": "/Users/mohammad/repo/AspnetCoreDockerAdvanced/api/api.csproj"
               }
             }
           }
@@ -106,17 +114,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[15.9.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
             },
             "xunit": {
               "target": "Package",
@@ -128,10 +131,21 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
         }
       }
     }
